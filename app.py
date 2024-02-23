@@ -25,7 +25,8 @@ def save_transactions(filename, transactions):
         for transaction in transactions:
             file.write(f"{transaction}\n")
 
-def main():
+if __name__ == "__main__":
+    #DO NOT LEAVE THIS EMPTY MAIN FUNCTION HERE
     # Main function to run the application.
     user_name = input("Enter your name: ")
     transactions_file = f"{user_name}_transactions.txt"
@@ -52,8 +53,6 @@ def main():
     save_transactions(transactions_file, budget.transactions)
     print("Transactions saved. Exiting application.")
 
-if __name__ == "__main__":
-    main()
 
 
 
