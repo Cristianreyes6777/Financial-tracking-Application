@@ -37,4 +37,6 @@ will include tests later
 ## Questions
 For any questions, please contact me at:
 Email: Cristianreyes6777@gmail.com
+linkedin: www.linkedin.com/in/cristian-estiben-reyes
+website: www.cristianreyes.io
     
