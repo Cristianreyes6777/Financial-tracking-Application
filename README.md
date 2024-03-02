@@ -34,20 +34,17 @@ To begin, simply follow the prompts to add transactions or query your current fi
 - **Unique Category Tracking**: The application tracks and displays unique spending and income categories introduced during the current session.
 - **Session-Based Insights**: View the total number of transactions recorded in each session, encouraging regular financial check-ins.
 - **Simplicity and Accessibility**: Built with vanilla Python and utilizing built-in modules for maximum compatibility and ease of use.
+- **Txt file editor**: All budget reports are edited on a txt file for easy access, readiability, and editing. 
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details.
 
-## Contributing
-Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-1. Fork the project.
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`).
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`).
-4. Push to the branch (`git push origin feature/AmazingFeature`).
-5. Open a pull request.
-
 ## Tests
-Testing details will be included later. Stay tuned for updates on how to run the tests to ensure the application's robustness and reliability.
+
+To run these tests, ensure you have the `unittest` framework available (which comes with standard Python installations). Place the test file in the same directory as your `budget.py` script. Then, execute the test script from your command line or terminal:
+
+```bash
+python -m unittest test_budget.py
 
 ## Questions
 Should you have any questions or require further clarification, feel free to reach out:
