@@ -34,7 +34,13 @@ To begin, simply follow the prompts to add transactions or query your current fi
 - **Unique Category Tracking**: The application tracks and displays unique spending and income categories introduced during the current session.
 - **Session-Based Insights**: View the total number of transactions recorded in each session, encouraging regular financial check-ins.
 - **Simplicity and Accessibility**: Built with vanilla Python and utilizing built-in modules for maximum compatibility and ease of use.
-- **Txt file editor**: All budget reports are edited on a txt file for easy access, readiability, and editing. 
+- **Txt file editor**: All budget reports are edited on a txt file for easy access, readiability, and editing.
+
+## Questions
+Should you have any questions or require further clarification, feel free to reach out:
+- **Email**: Cristianreyes6777@gmail.com
+- **LinkedIn**: [www.linkedin.com/in/cristian-estiben-reyes](www.linkedin.com/in/cristian-estiben-reyes)
+- **Website**: [www.cristianreyes.io](www.cristianreyes.io)
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details.
@@ -47,9 +53,5 @@ To run these tests, ensure you have the `unittest` framework available (which co
 python -m unittest test_budget.py
 
 
-## Questions
-Should you have any questions or require further clarification, feel free to reach out:
-- **Email**: Cristianreyes6777@gmail.com
-- **LinkedIn**: [www.linkedin.com/in/cristian-estiben-reyes](www.linkedin.com/in/cristian-estiben-reyes)
-- **Website**: [www.cristianreyes.io](www.cristianreyes.io)
+
 
